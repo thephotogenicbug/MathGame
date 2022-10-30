@@ -7,6 +7,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
+import com.naveen.mathgames.R
 import java.util.*
 import kotlin.random.Random
 

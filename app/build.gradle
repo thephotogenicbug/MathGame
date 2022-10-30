@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.naveen.mathgame'
+    namespace 'com.naveen.mathgames'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.naveen.mathgame"
+        applicationId "com.naveen.mathgames"
         minSdk 23
         targetSdk 33
         versionCode 1

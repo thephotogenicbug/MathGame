@@ -16,8 +16,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         addition = findViewById(R.id.buttonAdd)
-        subtraction = findViewById(R.id.buttonSub)
-        multiplication = findViewById(R.id.buttonMulti)
+//        subtraction = findViewById(R.id.button)
+//        multiplication = findViewById(R.id.buttonMulti)
 
 
         addition.setOnClickListener {
