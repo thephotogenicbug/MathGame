@@ -16,19 +16,19 @@
         android:text="Addition"
         android:textSize="20sp" />
 
-    <Button
-        android:id="@+id/buttonSub"
-        android:layout_width="250dp"
-        android:layout_height="75dp"
-        android:layout_marginTop="20dp"
-        android:text="Subtraction"
-        android:textSize="20sp" />
+<!--    <Button-->
+<!--        android:id="@+id/buttonSub"-->
+<!--        android:layout_width="250dp"-->
+<!--        android:layout_height="75dp"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:text="Subtraction"-->
+<!--        android:textSize="20sp" />-->
 
-    <Button
-        android:id="@+id/buttonMulti"
-        android:layout_width="250dp"
-        android:layout_height="75dp"
-        android:layout_marginTop="20dp"
-        android:text="Multiplication"
-        android:textSize="20sp" />
+<!--    <Button-->
+<!--        android:id="@+id/buttonMulti"-->
+<!--        android:layout_width="250dp"-->
+<!--        android:layout_height="75dp"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:text="Multiplication"-->
+<!--        android:textSize="20sp" />-->
 </LinearLayout>
